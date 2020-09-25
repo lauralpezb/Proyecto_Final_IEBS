@@ -1,6 +1,7 @@
 # Impacto de las partículas contaminantes en la temperatura en el Valle de Aburrá, Antioquia-Colombia.
 
 En este repositorio encontrarás el desarrollo del trabajo final para el Postgrado en Data Science y Machine Learning IEBS 2020.
+Para acceder a la visualización realizada en Data Studio dar clic [aquí](https://datastudio.google.com/u/1/reporting/00117590-5ebb-4cef-96de-11658f627921/page/MC0cB).
 
 Para descargar el proyecto y correrlo en la maquina local sigue los pasos:
 
